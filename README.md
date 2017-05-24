@@ -1,2 +1,2 @@
 # 機械学習プロフェッショナルシリーズ 深層学習による自然言語処理
-誤植等を見つけられた方は https://github.com/yuutat/mlpnlp/issues にIssueを作ってお知らせいただけると幸いです．
+このページで正誤表を管理します。書籍の誤植等を見つけられた方は https://github.com/yuutat/mlpnlp/issues にIssueを作ってお知らせいただけると幸いです．
