@@ -17,4 +17,5 @@
 | [#11](https://github.com/mlpnlp/mlpnlp/issues/11) | [scapegoat06様](https://github.com/scapegoat06) | P.29 3段落目| 入力列全体 ![p29-inputseq-org](https://user-images.githubusercontent.com/1034551/28168766-1a22c3d4-681b-11e7-86c0-493fd41c9713.gif)| 入力列全体 ![p29-inputseq-new](https://user-images.githubusercontent.com/1034551/28168770-1ebaa290-681b-11e7-912f-849936df910c.gif) | 第4刷 |
 | [#13](https://github.com/mlpnlp/mlpnlp/issues/13) | [arumtaunsaram様](https://github.com/arumtaunsaram) | P.79 (4) 復号化器再帰層| 復号化器**埋め込み**層の処理に対する入出力は　| 復号化器**再帰**層の処理に対する入出力は |  |
 | [#14](https://github.com/mlpnlp/mlpnlp/issues/14) | [ysekky様](https://github.com/ysekky) | P.100 一般化 | gene**l**a**r**ization | gene**r**a**l**ization |  |
+| [#16](https://github.com/mlpnlp/mlpnlp/issues/16) | [ysekky様](https://github.com/ysekky) | P.106 4.2.4節 | sem**e**ntic memory module | sem**a**ntic memory module |  |
 
