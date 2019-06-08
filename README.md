@@ -28,4 +28,5 @@
 | [#27](https://github.com/mlpnlp/mlpnlp/issues/27) | [dkawahara様](https://github.com/dkawahara) | P.103 式(4.25) の中央の項|![eq4.24org](https://user-images.githubusercontent.com/1034551/59075615-9e4d7500-890c-11e9-8cea-b30e068e7fd8.png)| ![eq4.24new](https://user-images.githubusercontent.com/1034551/59075608-8ece2c00-890c-11e9-9801-fb4b1d1d7ac8.png) （最後のxをboldに)|  |
 | [#28](https://github.com/mlpnlp/mlpnlp/issues/28) | [dkawahara様](https://github.com/dkawahara) | P.104 4.2.3節 下から２行目|質問文 q| 質問文 **q**|  |
 | [#29](https://github.com/mlpnlp/mlpnlp/issues/29) | [dkawahara様](https://github.com/dkawahara) | P.107 4.2.4節 下から２行目|ベクトル使って| ベクトルを使って|  |
+| [#31](https://github.com/mlpnlp/mlpnlp/issues/31) | [dkawahara様](https://github.com/dkawahara) | P.154 5.4.1節 最下行|文のベクトルを単一のベクトルに符号化します| 文を単一のベクトルに符号化します|  |
 | [#38](https://github.com/mlpnlp/mlpnlp/issues/38) | [kamujun様](https://github.com/kamujun) | P.132 5.2.1節 |test summarization challenge (TSC)| text summarization challenge (TSC)|  |
