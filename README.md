@@ -29,4 +29,5 @@
 | [#28](https://github.com/mlpnlp/mlpnlp/issues/28) | [dkawahara様](https://github.com/dkawahara) | P.104 4.2.3節 下から２行目|質問文 q| 質問文 **q**|  |
 | [#29](https://github.com/mlpnlp/mlpnlp/issues/29) | [dkawahara様](https://github.com/dkawahara) | P.107 4.2.4節 下から２行目|ベクトル使って| ベクトルを使って|  |
 | [#31](https://github.com/mlpnlp/mlpnlp/issues/31) | [dkawahara様](https://github.com/dkawahara) | P.154 5.4.1節 最下行|文のベクトルを単一のベクトルに符号化します| 文を単一のベクトルに符号化します|  |
+| [#3](https://github.com/mlpnlp/mlpnlp/issues/32) | [tezoooka様](https://github.com/tezoooka) | P.102 4.2.2節 上から２行目|内部情報とし扱います| 内部情報として扱います|  |
 | [#38](https://github.com/mlpnlp/mlpnlp/issues/38) | [kamujun様](https://github.com/kamujun) | P.132 5.2.1節 |test summarization challenge (TSC)| text summarization challenge (TSC)|  |
