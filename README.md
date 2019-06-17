@@ -36,3 +36,5 @@
 | [#38](https://github.com/mlpnlp/mlpnlp/issues/38) | [kamujun様](https://github.com/kamujun) | P.132 5.2.1節 |test summarization challenge (TSC)| text summarization challenge (TSC)|  |
 | [#20](https://github.com/mlpnlp/mlpnlp/issues/20) | [1an9ua9e様](https://github.com/1an9ua9e) | P.117 4.3.5節 | ![eq4.61org](https://user-images.githubusercontent.com/29202433/29772154-61278f86-8c32-11e7-8d76-fa1dd1fbd32d.png) | ![eq4.61new](https://user-images.githubusercontent.com/29202433/29772405-99dd44dc-8c33-11e7-9b0e-4bee6d845f38.png) | |
 | [#25](https://github.com/mlpnlp/mlpnlp/issues/25)| [murawaki様](https://github.com/murawaki) | p.102 4.2.2節 下から4行目 | `m_1, m_2` | `m_{o_1}, m_{o_2}` |
+| [#39](https://github.com/mlpnlp/mlpnlp/issues/39) | [Isa-rentacs様](https://github.com/Isa-rentacs) | P.202 アルゴリズム7.2 | `k = rN
+` | `k = \lfloor rN \rfloor` |
