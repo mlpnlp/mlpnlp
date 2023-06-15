@@ -46,5 +46,5 @@
 | [#44](https://github.com/mlpnlp/mlpnlp/issues/44) | [f-okuya-pro8様](https://github.com/f-okuya-pro8) | P.192 15,16行目 | 最大文長よりも大きい | 最大文長以上の |
 | [#45](https://github.com/mlpnlp/mlpnlp/issues/45) | [f-okuya-pro8様](https://github.com/f-okuya-pro8) | P.204 10行目 | 連鎖率 | 連鎖律 |
 | [#46](https://github.com/mlpnlp/mlpnlp/issues/46) | [f-okuya-pro8様](https://github.com/f-okuya-pro8) | P.207 7.5.1 2行目 |後ろ処理 | 後ろ向き処理 |
-| [#48](https://github.com/mlpnlp/mlpnlp/issues/48) | [mamoruitoi様](https://github.com/mamoruitoi) | P.18 式(2.19) 下文 | $`i \in \{1, \ldots, \|{\cal D}\|\}`$ | $`{\rm n} \in \{1, \ldots, \|{\cal D}\|\}`$ |
-| [#49](https://github.com/mlpnlp/mlpnlp/issues/49) | [totuta様](https://github.com/totuta) | P.13 図2.1 | $h_1^{\rm (l-1)}$ から $W_{12}^{\rm (l)}$ へ、 $h_2^{\rm (l-1)}$ から $W_{21}^{\rm (l)}$ へ矢印 | $h_1^{\rm (l-1)}$ から $W_{21}^{\rm (l)}$ へ、 $h_2^{\rm (l-1)}$ から $W_{12}^{\rm (l)}$ へ矢印 |
+| [#48](https://github.com/mlpnlp/mlpnlp/issues/48) | [mamoruitoi様](https://github.com/mamoruitoi) | P.18 式(2.19) 下文 | $`i \in \{1, \ldots, \|{\cal D}\|\}`$ | $`{\rm n} \in \{1, \ldots, \|{\cal D}\|\}`$ |第7刷
+| [#49](https://github.com/mlpnlp/mlpnlp/issues/49) | [totuta様](https://github.com/totuta) | P.13 図2.1 | $h_1^{\rm (l-1)}$ から $W_{12}^{\rm (l)}$ へ、 $h_2^{\rm (l-1)}$ から $W_{21}^{\rm (l)}$ へ矢印 | $h_1^{\rm (l-1)}$ から $W_{21}^{\rm (l)}$ へ、 $h_2^{\rm (l-1)}$ から $W_{12}^{\rm (l)}$ へ矢印 |第7刷
